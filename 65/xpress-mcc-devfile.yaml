@@ -8,7 +8,7 @@ components:
 
   - type: cheEditor
     reference: >-
-      https://raw.githubusercontent.com/cherxp/my-plugin-registry/master/meta-xpress.yaml
+      https://raw.githubusercontent.com/cherxp/che-yaml/main/65/meta-xpress.yaml
   - alias: mcc
     type: dockerimage
     image: localhost:5000/xpress-plugin-1:latest
